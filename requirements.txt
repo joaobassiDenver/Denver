@@ -3,3 +3,4 @@ openpyxl
 base64
 tempfile
 io
+streamlit
