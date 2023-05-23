@@ -38,9 +38,9 @@ elif adm == 'ID Corretora':
 
 #Filtros
 aplic = ["Aplicação", "Aplicacão Cotas Especial","Depósito","Entrada","Estorno Aplicação"]
-resg = ["Resgate Cotas Especial","Resgate", "Come Cotas", "Resgate líquido","Retirada","Estorno Resgate"]
+resg = ["Resgate Cotas Especial","Resgate", "Come Cotas", "Resgate Líquido","Retirada","Estorno Resgate", "Resgate Total","Resgate Cotas"]
 amort = ["Amortização", "Juros"]
-distr = ["Distribuição","OUTRA COISA"]
+distr = ["Distribuição","Dividendo"]
 
 # Tratamento por adm
 if mov_doc is not None and hist_doc is not None:
