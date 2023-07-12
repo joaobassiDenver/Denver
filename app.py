@@ -37,8 +37,8 @@ elif adm == 'ID Corretora':
     )
 
 #Filtros
-aplic = ["Aplicação", "Aplicacão Cotas Especial","Depósito","Entrada","Estorno Aplicação"]
-resg = ["Resgate Cotas Especial","Resgate", "Come Cotas", "Resgate Líquido","Retirada","Estorno Resgate", "Resgate Total","Resgate Cotas"]
+aplic = ["Aplicação", "Depósito","Entrada","Estorno Aplicação"]
+resg = ["Resgate", "Come Cotas", "Resgate Líquido","Retirada","Estorno Resgate", "Resgate Total","Resgate Cotas"]
 amort = ["Amortização", "Juros"]
 distr = ["Distribuição","Dividendo"]
 
